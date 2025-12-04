@@ -1,0 +1,20 @@
+{
+    "name": "flyokai/amp-mate",
+    "description": "AMPHP helpers",
+    "require": {
+        "amphp/amp": "^3",
+        "amphp/file": "^3",
+        "flyokai/data-mate": "dev-dev@dev"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "src/functions/filesystem.php"
+        ],
+        "psr-4": {
+            "Flyokai\\AmpMate\\": "src/"
+        }
+    }
+}
