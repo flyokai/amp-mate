@@ -1,5 +1,7 @@
 # flyokai/amp-mate
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 AMPHP filesystem helpers bridging async Amp File API with traditional PHP operations.
 
 ## Functions (auto-loaded)
