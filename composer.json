@@ -4,7 +4,7 @@
     "require": {
         "amphp/amp": "^3",
         "amphp/file": "^3",
-        "flyokai/data-mate": "<1"
+        "flyokai/data-mate": "^1"
     },
     "license": [
         "MIT"
